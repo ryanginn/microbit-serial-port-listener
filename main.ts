@@ -1,4 +1,6 @@
 /**
+ * READ ME!
+ * 
  * If you do not know how to set this up, please follow the tutorial linked here:
  * 
  * https://makecode.microbit.org/device/serial
